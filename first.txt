@@ -1,4 +1,4 @@
-Hello git on VS
+Hello git on VS conflict test
 Hello the second line
 3rd line
 hi Sharif
