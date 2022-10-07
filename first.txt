@@ -1,2 +1,3 @@
 Hello git on VS
 Hello the second line
+3rd line
